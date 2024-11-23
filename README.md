@@ -5,5 +5,5 @@ Triage de Urgencias ( Colas de prioridad y funciones hash )
 
 # A tener en cuenta a la hora de compilar:
 
-Al compilar, asegúrate de incluir ambos archivos:
+Al compilar, asegúrate de incluir ambos archivos:\n
 g++ main.cpp ColaDePrioridad.cpp -o programa
