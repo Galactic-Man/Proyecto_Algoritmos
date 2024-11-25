@@ -1,4 +1,3 @@
-
 Pedro,36,true,Hernandez,1,25/11/2024,14:00  
 Mariana,9,true,Torres,1,25/11/2024,16:00  
 Carlos,36,true,Carvajal,1,25/11/2024,08:00  
